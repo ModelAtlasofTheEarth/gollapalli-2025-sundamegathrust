@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Gollapalli
+  given-names: Thyagarajulu
+  orcid: https://orcid.org/0000-0001-9394-4104
+title: Bridging the gap between subduction dynamics and the long-term strength of
+  the Sunda megathrust
+version: ''
+doi: https://doi.org/10.25914/an8s-6g97
+date-released: '2026-09-09'
+url:
+- https://mate.science/models/gollapalli-2025-sundamegathrust/
+- https://github.com/ModelAtlasofTheEarth/gollapalli-2025-sundamegathrust/
+type: dataset
