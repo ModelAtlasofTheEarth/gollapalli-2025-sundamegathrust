@@ -1,1 +1,4 @@
 # Model Code & Inputs
+
+## Notes:
+We model subduction in a regional spherical domain using Stokes flow of an incompressible fluid with an infinite Prandtl number. The Southeast Asian subduction zone is simulated within a portion of a spherical shell. The domain is discretised with a uniform mesh in longitude and latitude, and a non-uniform mesh in the radial direction, resulting in element sizes of ~15×15×10 km in the upper mantle and ~15×15×37 km in the lower mantle. Each element contains 20 Lagrangian particles to track material properties and improve resolution of stress variations. All model boundaries are assigned free-slip conditions.
